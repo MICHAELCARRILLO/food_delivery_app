@@ -16,7 +16,7 @@ class Dish {
   });
 }
 
-List<Dish> dishes() {
+List<Dish> listOfDishes() {
   return [
     Dish(
         name: "Fried Chiness Rice",
